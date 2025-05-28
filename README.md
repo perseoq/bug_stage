@@ -12,7 +12,7 @@
 | Instalación modular por componentes | ✅                 | ✅                   |
 | Registro detallado de instalación   | ✅                 | ✅                   |
 | Validación de prerrequisitos        | ✅                 | ✅                   |
-| Soporte para UEFI/BIOS              | Parcial (solo BIOS)| ❌                   |
+| [Soporte para UEFI/BIOS](uefi_bios_support.md)              | Parcial (solo BIOS)| ❌                   |
 | Configuración de usuarios           | Básico             | Avanzado             |
 | Instalación de controladores        | ❌                 | ✅                   |
 | Configuración de red                | Básica             | Avanzada             |
